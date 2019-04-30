@@ -2,7 +2,7 @@
 # Project Expm
 
 ## Instructions
-* Create a new personal project on GITHUB: Project Expm
+* Create a new personal project on GITHUB: Expm
 
 ## Requirements
 * The following specifications are needed in order to execute the script:
