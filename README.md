@@ -14,7 +14,6 @@
 ## Script execution
 
 ### Launch the script
-* Only the python file needs to be executed, the bash files will follow automatically.
 * The users needs to already be in the folder where the python file is situated and type:
 ```
 $ python3 expm.py
@@ -27,4 +26,4 @@ $ python3 /home/expm-graph/expm.py
 ### Results
 * The script will generate 
 	* A graph in PDF format
-  * A graph in PNG format
+ 	* A graph in PNG format
